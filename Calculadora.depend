@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1458779330 source:c:\users\alumno.lab04pc21\desktop\hermes\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1458779806 source:c:\users\usuario\desktop\facultad\programacion c\clase 3\hermes\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1459371671 source:c:\users\usuario\desktop\facultad\programacion c\trabajo practico\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1460071212 source:c:\users\usuario\documents\github\tp_laboratoria_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LibreriaErcegovich.h"
+
+1460070965 c:\users\usuario\documents\github\tp_laboratoria_1\libreriaercegovich.h
+	<stdio.h>
+	<stdlib.h>
+
